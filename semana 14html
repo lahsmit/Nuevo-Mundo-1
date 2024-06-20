@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Bitacora Digital Semana 10</title>
+		<title>Bitacora Digital Semana 14</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -19,7 +19,7 @@
 
 				<!-- Header -->
 				<header id="header" class="alt">
-					<a href="index.html" class="logo"><strong>Lahsmit Melendes Sanchez</strong> <span>Bitácora Digital - Semana 10</span></a>
+					<a href="index.html" class="logo"><strong>Lahsmit Melendes Sanchez</strong> <span>Bitácora Digital - Semana 14</span></a>
 					<nav>
 						<a href="#menu">Menu</a>
 					</nav>
@@ -48,10 +48,10 @@
 								<img src="images/pic07.jpg" alt="" />
 							</span>
 							<header class="major">
-								<h1>Semana 10</h1>
+								<h1>Semana 14</h1>
 							</header>
 							<div class="content">
-								<p>Voy a detallarte todo lo que se llevó a cabo durante la semana 11 <br>
+								<p>Voy a detallarte todo lo que se llevó a cabo durante la semana 14 <br>
 									Entregables del tercer trimestre y conceptos relacionados con la Industria 4.0 y el Internet de las Cosas (IOT)
                                 </p>
 							</div>
